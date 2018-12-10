@@ -294,8 +294,7 @@ button {
 */
 .separator {
   width: 193.2px;
-  height: 1px;
-  display: block
+  display: block;
   margin: 50px auto;
   border: none;
   background-color: #d9d9d9;
