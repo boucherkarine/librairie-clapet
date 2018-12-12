@@ -306,11 +306,12 @@ button {
 
 .honey-pot-list {
   text-align: center;
+  display: flex
 }
 
 .honey-pot {
   display: inline-block;
-  margin: 0 30px 35px 30px;
+  margin: auto;
   text-align: center;
 }
 
