@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat|Work+Sans');
 
+
 /**
 * -----------
 * Global
@@ -12,7 +13,7 @@ body {
   padding-bottom: 75px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  color: #303044;
+  color: black;
 }
 
 p, li, td, th, textarea, caption, pre, blockquote, label, input, select, textarea {
@@ -199,7 +200,7 @@ button {
 .chapo {
   margin: auto;
   width: 960px;
-  font-family: WorkSans;
+  font-family: Work Sans;
   font-size: 25px;
 }
 
@@ -480,6 +481,7 @@ button {
 * index
 */
 .index-title {
+  font-weight: 200
   text-align: center;
   margin-bottom: 35px;
-}
+    }
