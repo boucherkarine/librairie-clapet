@@ -14,6 +14,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   color: black;
+  width: 100%;
 }
 
 p, li, td, th, textarea, caption, pre, blockquote, label, input, select, textarea {
@@ -203,6 +204,7 @@ button {
   font-family: Work Sans;
   font-size: 25px;
   padding: 10px;
+  width: 100%;
 }
 
 .full-width {
@@ -232,6 +234,7 @@ button {
   background-size: cover;
   background-position: center bottom;
   overflow: hidden;
+  width: 100%;
 }
 
 
