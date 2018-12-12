@@ -411,6 +411,7 @@ button {
 .news--main {
   padding-bottom: 35px;
   border-bottom: 1px solid #b0b0c5;
+  text-align: left
 }
 .news--main .news__link {
   display: flex;
